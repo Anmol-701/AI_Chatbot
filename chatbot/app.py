@@ -15,7 +15,7 @@ GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 client = Groq(api_key=GROQ_API_KEY)
 
 # Create Streamlit interface
-st.title("AI Assistant with :blue[_Groq_] 🙂")
+st.title("AI Assistant with :blue[_Groq_] :frog:")
 # st.title("_Streamlit_ is :blue[cool] :sunglasses:")
 
 # Initialize chat history
