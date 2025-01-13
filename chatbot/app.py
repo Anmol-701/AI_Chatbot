@@ -7,10 +7,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Environment variables setup
-os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
+os.environ["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"] = os.getenv("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")
 
 # Create Groq client
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = Groq(api_key=os.getenv("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"))
 
 # Create Streamlit interface
 st.title("AI Assistant with :blue[_Groq_] 🙂")
