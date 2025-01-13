@@ -1,0 +1,3 @@
+groq            # For Groq API integration
+streamlit       # For the web interface
+python-dotenv   # For environment variable management
