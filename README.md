@@ -30,14 +30,14 @@ This project is a Streamlit web app that utilizes Groq for building an AI-powere
 
 1. Create secrets.toml:
   - Create a secrets.toml file in the project directory with your Groq API key:
-  ```bash 
+    ```bash 
     [secrets]
     GROQ_API_KEY = "your_actual_api_key" 
 
 2. Local Development (Optional):
   - Set the GROQ_API_KEY environment variable locally (if not using .env).
   - Run the app:
-  ```bash
+    ```bash
     streamlit run app.py
 
 
