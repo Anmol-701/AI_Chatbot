@@ -19,9 +19,30 @@ This project is a Streamlit web app that utilizes Groq for building an AI-powere
 
 1. Clone the repository:
       ```bash
-     git clone 
+     git clone https://github.com/Anmol-701/AI_Chatbot.git
      cd chatbot
 2. Install the required Python libraries:
     ```bash
     pip install -r requirements.txt
 
+
+## Usage:
+
+1. Create secrets.toml:
+
+  Create a secrets.toml file in the project directory with your Groq API key:
+
+Ini, TOML
+
+[secrets]
+GROQ_API_KEY = "your_actual_api_key" 
+
+2. Local Development (Optional):
+  - Set the GROQ_API_KEY environment variable locally (if not using .env).
+  - Run the app:
+  ```Bash
+    streamlit run app.py
+
+
+# Author:
+Anmol Rana
