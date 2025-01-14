@@ -1,5 +1,5 @@
 # Groq AI Assistant
-This project is a Streamlit web app that utilizes Groq for building an AI-powered chat assistant. It allows users to interact with the assistant by asking questions and receiving informative responses.
+This project is a Streamlit web app that utilizes Groq for building an AI-powered **[Chat Assistant](https://aichatbot-groq.streamlit.app/)**. It allows users to interact with the assistant by asking questions and receiving informative responses.
 
 ## Features:
   - Secure API key management using Streamlit secrets.
