@@ -42,4 +42,4 @@ This project is a Streamlit web app that utilizes Groq for building an AI-powere
 
 
 # Author:
-  ## Anmol Rana
+  ### Anmol Rana
