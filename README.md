@@ -12,9 +12,16 @@ This project is a Streamlit web app that utilizes Groq for building an AI-powere
   - Streamlit 
   - Groq 
   - python-dotenv (for local development)
-  ```bash
-  pip install -r requirements.txt
+    ```bash
+     pip install -r requirements.txt
 
 ## Installation
+
 1. Clone the repository:
+      ```bash
+     git clone 
+     cd chatbot
+2. Install the required Python libraries:
+    ```bash
+    pip install -r requirements.txt
 
